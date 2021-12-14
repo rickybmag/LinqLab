@@ -1,0 +1,14 @@
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.exe
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.deps.json
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.json
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.runtimeconfig.dev.json
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.dll
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\bin\Debug\netcoreapp3.1\LinqLab.pdb
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfoInputs.cache
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.AssemblyInfo.cs
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.CoreCompileInputs.cache
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.dll
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.pdb
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.genruntimeconfig.cache
+C:\Users\Rmagdaleno\source\repos\LinqLab\LinqLab\obj\Debug\netcoreapp3.1\LinqLab.csproj.AssemblyReference.cache
